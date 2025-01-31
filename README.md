@@ -15,7 +15,7 @@ This is mostly to save myself time in the future, but I might as well share it w
 ### Install
 0. Install the aforementioned dependencies.
 1. Clone the repository to your favorite location. For me that is the home directory.
-> `git clone https://github.com/devopsguy/ohelm-zsh-theme.git`
+> `git clone https://github.com/devopsguy/ohelm-zsh-theme.git .custom`
 2. Set the Zsh custom directory in your `.zshrc`
 > Look for the `ZSH_CUSTOM` variable and set it to your custom directory location.  
 > 
